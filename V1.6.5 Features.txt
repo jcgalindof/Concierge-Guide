@@ -1,0 +1,162 @@
+————————————————————————————————————————————
+V1.6.5 Update
+————————————————————————————————————————————
+Fixed issue registration error.
+
+————————————————————————————————————————————
+V1.6.4 Update
+————————————————————————————————————————————
+Fixed issue in disabling sms, call, email, and website button.
+Fixed issue in iOS7 that fails to load and crashes the categories section
+Fixed Search View AdView placement to bottom rather that adding offset at the top
+Some bug fixes.
+Grab Twitter Profile Pic picture as thumb photo.
+Grab Facebook Profile Pic picture as thumb photo.
+————————————————————————————————————————————
+V1.6.3 Update
+————————————————————————————————————————————
+Native iPhone 6/6+ Screen Size Support
+Comments were updated and fixed to support most of the encoding.
+Map info sliding adjustment to user change region.
+Some bug fixes and updates.
+Phone Number, SMS Number, Email, and Website is disabled when there is no text provided.
+Remove required field on Phone Number, SMS Number, Email, and Website.
+Enhance review encoding.
+
+————————————————————————————————————————————
+V1.6.2 Update
+————————————————————————————————————————————
+Updated border that shows even if the image fails to load
+Added Pagination in PHP Backend (News, Store, and Category Tab)
+
+————————————————————————————————————————————
+V1.6.1 Update
+————————————————————————————————————————————
+No supports iOS 8
+
+————————————————————————————————————————————
+V1.6 Update
+————————————————————————————————————————————
+JSON Encoding fixes.
+
+REST Service updated to work with Android.
+
+
+————————————————————————————————————————————
+V1.5 Update
+————————————————————————————————————————————
+Adjusted HTML Entities Decoding
+
+Added Popup when a user finished rating
+
+Other minor adjustments
+
+————————————————————————————————————————————
+V1.4 Update
+————————————————————————————————————————————
+
+Adjusted some UI for good user experience
+
+Fixed Apple Map Bug for Routing
+
+Adjust UI for Rating and Reviews in 3.5 inch display.
+
+Fix bug in News Detail/Website Views that keeps on prompting no network connection when back/forward button is clicked.
+
+Adjusted weather country, state, and address information to 3 lines.
+
+Fixed Some not removed HUD when Failed Logging-in/Registration.
+
+Change the Thumb profile photo to user photo placeholder instead
+
+————————————————————————————————————————————
+V1.3 Update
+————————————————————————————————————————————
+
+Adjusted some UI for good user experience
+
+Fixed Apple Map Bug for Routing
+
+Fixed Photo upload gone when you update only the Cover or Thumb Photo.
+
+Adjusted Categories label that cuts the text height.
+
+Fixed Weather wrong conversion to Celsius/Farenheit due to last update modificaton.
+
+Fixed Some not removed HUD when Failed Logging-in/Registration.
+
+————————————————————————————————————————————
+V1.2 Update
+————————————————————————————————————————————
+Fixed some api call after a user rate a certain store.
+
+Enhance some sorting results when you search store nearby.
+
+Fixed a major bug that allows a user to rate multiple times.
+
+Some UI Improvements.
+
+Some Animation improvements.
+
+————————————————————————————————————————————
+V1.1 Update
+————————————————————————————————————————————
+Fixed some bugs in Register, Login and Update Profile that cause the Loading Screen to be dismissed even if it is not finished syncing the photo.
+
+Added Pull to Refresh on News, Categories, Reviews Views.
+
+Added Pagination in Review Comments.
+
+Some UI Enhancements.
+
+Added Character Count in Reviews.
+
+
+————————————————————————————————————————————
+V1.0
+————————————————————————————————————————————
+
+PHP Backend
+
+Can manage users by allowing or denying access.
+Property Type creation, modificaiton, and deletion.
+RealEstate creation, modificaiton, and deletion.
+Photo Upload via URL or by File.
+Google Maps Integration.
+
+
+iOS App
+
+Localization Ready!
+Offline Usage
+User Rating
+User Reviews
+News
+Custom Pins
+User Profile
+Social Login (Twitter/Facebook/Web)
+AdMob
+Unique Multi Transition
+Zoom Transition
+Folding Transition
+Cool Mobile UI Interaction
+Multi Animation Selection per user configuration
+Pull Down Bouncy UI.
+Share to Facebook
+Share to Twitter
+Call Integration
+Email Integration
+SMS Integration
+User can add Favorites
+Google Directions.
+Advance Search
+About Us Panel Added
+Terms & Conditions Panel Added
+User can edit its Profile
+Draw Objects in the map and gets all the Map Pins inside the drawing.
+Image Pinch and Zoom
+Supports 3.5/4 inch Screen Display.
+Supports 64 bit Architecture.
+
+
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="yVx-Cx-1Wg" customClass="MGProfileView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="507"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profile_placeholder.png" id="lqy-Pz-WRl">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="8vU-5a-5Hb">
+                    <rect key="frame" x="20" y="391" width="280" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="19"/>
+                    <state key="normal" title="Update" backgroundImage="button_blue.png">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="1dM-cR-nET">
+                    <rect key="frame" x="20" y="443" width="280" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="19"/>
+                    <state key="normal" title="Logout" backgroundImage="button_red.png">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="vBM-nx-eiB">
+                    <rect key="frame" x="60" y="0.0" width="200" height="200"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="17"/>
+                    <inset key="titleEdgeInsets" minX="0.0" minY="0.0" maxX="0.0" maxY="-150"/>
+                    <state key="normal" title="Click to Edit">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="line_divider_orange.png" id="oST-tm-pA0">
+                    <rect key="frame" x="0.0" y="200" width="320" height="5"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <view contentMode="scaleToFill" id="Ka9-LT-FPd">
+                    <rect key="frame" x="9" y="213" width="302" height="133"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profile_thumb_placeholder.png" id="Hhq-Hn-paR">
+                            <rect key="frame" x="2" y="8" width="100" height="100"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="T1v-JV-m7o">
+                            <rect key="frame" x="2" y="8" width="100" height="100"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="16"/>
+                            <inset key="titleEdgeInsets" minX="0.0" minY="0.0" maxX="0.0" maxY="-60"/>
+                            <state key="normal" title="Click to Edit">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="textbox_profile.png" id="0RG-iw-MnB">
+                            <rect key="frame" x="110" y="8" width="190" height="34"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Full Name" minimumFontSize="17" id="qjF-rz-Oym">
+                            <rect key="frame" x="118" y="8" width="174" height="34"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="words" returnKeyType="next"/>
+                        </textField>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="textbox_profile.png" id="daZ-Lo-RVi">
+                            <rect key="frame" x="110" y="50" width="190" height="34"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Password" minimumFontSize="17" id="goY-3n-Rkb">
+                            <rect key="frame" x="118" y="50" width="174" height="34"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" returnKeyType="done" secureTextEntry="YES"/>
+                        </textField>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="**When editing all fields are necessary" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="pW6-1F-rKW">
+                            <rect key="frame" x="2" y="116" width="268" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="GillSans" family="Gill Sans" pointSize="14"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="buttonCover" destination="vBM-nx-eiB" id="xU6-6m-REh"/>
+                <outlet property="buttonLogout" destination="1dM-cR-nET" id="c4t-wo-XNF"/>
+                <outlet property="buttonThumb" destination="T1v-JV-m7o" id="rpV-vl-wip"/>
+                <outlet property="buttonUpdate" destination="8vU-5a-5Hb" id="mDZ-p0-HZ9"/>
+                <outlet property="imgViewCover" destination="lqy-Pz-WRl" id="wkG-bN-Cgf"/>
+                <outlet property="imgViewPhoto" destination="daZ-Lo-RVi" id="1h7-7Q-DVD"/>
+                <outlet property="imgViewThumb" destination="Hhq-Hn-paR" id="UTy-ao-cd0"/>
+                <outlet property="label1" destination="pW6-1F-rKW" id="a1i-5j-E1W"/>
+                <outlet property="textFieldFullName" destination="qjF-rz-Oym" id="nQE-Mt-N2s"/>
+                <outlet property="textFieldPassword" destination="goY-3n-Rkb" id="End-UO-rmo"/>
+            </connections>
+            <point key="canvasLocation" x="282" y="360.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="button_blue.png" width="280" height="44"/>
+        <image name="button_red.png" width="280" height="44"/>
+        <image name="line_divider_orange.png" width="320" height="5"/>
+        <image name="profile_placeholder.png" width="320" height="200"/>
+        <image name="profile_thumb_placeholder.png" width="100" height="100"/>
+        <image name="textbox_profile.png" width="190" height="34"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
