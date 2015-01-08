@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4741C69A-BFED-4B4B-8BE4-3C4090479E5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ConciergeGuide</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDC396F5AC5243BA984D9965AA460E5C4811D09E</key>
+		<string>https://github.com/jcgalindof/Concierge-Guide.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StoreFinder/ConciergeGuide.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDC396F5AC5243BA984D9965AA460E5C4811D09E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jcgalindof/Concierge-Guide.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDC396F5AC5243BA984D9965AA460E5C4811D09E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDC396F5AC5243BA984D9965AA460E5C4811D09E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Concierge-Guide</string>
+		</dict>
+	</array>
+</dict>
+</plist>
