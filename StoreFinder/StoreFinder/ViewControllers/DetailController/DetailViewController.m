@@ -423,7 +423,7 @@
         return size.height + (CELL_CONTENT_MARGIN * 2);
     }
     
-    [cell.labelDescription setText:[store.store_desc stringByDecodingHTMLEntities]];
+    [cell.labelDescription setText :[store.store_desc stringByDecodingHTMLEntities]];
     CGSize size = [cell.labelDescription sizeOfMultiLineLabel];
     CGRect frame = cell.labelDescription.frame;
     CGRect cellFrame = cell.frame;

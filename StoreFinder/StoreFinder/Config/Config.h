@@ -31,7 +31,7 @@
 #define ABOUT_US_EMAIL @"royalresortsweb@gmail.com"
 
 // Change this url depending on the name of your web hosting.
-#define BASE_URL @"http://theconciergeguidebyroyalresorts.com/backend/"
+#define BASE_URL @"http://theconciergeguidebyroyalresorts.com/cancun/"
 
 // AdMob background color
 #define AD_BG_COLOR [UIColor clearColor]
