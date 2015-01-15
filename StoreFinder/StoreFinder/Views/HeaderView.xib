@@ -79,7 +79,7 @@
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
                 </button>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tag_featured.png" id="Qlx-we-0NX">
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tag_featured@3x.png" id="Qlx-we-0NX">
                     <rect key="frame" x="240" y="227" width="75" height="75"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
                 </imageView>
@@ -106,7 +106,7 @@
         <image name="detail_image_placeholder.png" width="320" height="400"/>
         <image name="image_counter.png" width="30" height="30"/>
         <image name="star_fave_normal.png" width="40" height="40"/>
-        <image name="tag_featured.png" width="40" height="40"/>
+        <image name="tag_featured@3x.png" width="120" height="120"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>

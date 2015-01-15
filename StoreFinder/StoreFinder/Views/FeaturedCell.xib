@@ -53,7 +53,7 @@
                     <rect key="frame" x="283" y="3" width="25" height="42"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
                 </imageView>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tag_featured.png" id="7LD-4G-fcb">
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tag_featured@3x.png" id="7LD-4G-fcb">
                     <rect key="frame" x="237" y="165" width="75" height="75"/>
                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMinY="YES"/>
                 </imageView>
@@ -75,7 +75,7 @@
     </objects>
     <resources>
         <image name="list_store_placeholder.png" width="310" height="240"/>
-        <image name="tag_featured.png" width="40" height="40"/>
+        <image name="tag_featured@3x.png" width="120" height="120"/>
         <image name="tag_starred.png" width="25" height="42"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
