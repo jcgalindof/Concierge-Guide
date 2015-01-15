@@ -158,7 +158,7 @@
             cell.imgViewFave.hidden = YES;
         
         if([store.featured intValue] < 1)
-            cell.imgViewFeatured.hidden = YES;
+            cell.imgViewFeatured.hidden = NO;
         
         
         cell.selectionStyle = UITableViewCellSelectionStyleNone;
