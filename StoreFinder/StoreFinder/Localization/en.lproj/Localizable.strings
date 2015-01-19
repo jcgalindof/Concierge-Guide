@@ -52,7 +52,7 @@
 
 "CLICK_TO_EDIT" = "Click to Edit";
 
-"EDITING_NOTICE" = "**When editing all fields are necessary";
+"EDITING_NOTICE" = "All fields required";
 
 "NO_RESULTS" = "No Results found.";
 
@@ -102,7 +102,7 @@
 
 "CATEGORIES" = "Categories";
 
-"STARRED" = "Starred";
+"STARRED" = "Favorites";
 
 "FEATURED" = "Featured";
 
