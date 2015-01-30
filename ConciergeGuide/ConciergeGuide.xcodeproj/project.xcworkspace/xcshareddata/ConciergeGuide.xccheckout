@@ -14,7 +14,7 @@
 		<string>https://github.com/jcgalindof/Concierge-Guide.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>StoreFinder/ConciergeGuide.xcodeproj</string>
+	<string>ConciergeGuide/ConciergeGuide.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>EDC396F5AC5243BA984D9965AA460E5C4811D09E</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>EDC396F5AC5243BA984D9965AA460E5C4811D09E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Concierge-Guide</string>
+			<string>ConciergeGuide</string>
 		</dict>
 	</array>
 </dict>

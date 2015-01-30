@@ -1632,7 +1632,7 @@
 		CBAED2101948A1DD00769D68 = {
 			isa = PBXGroup;
 			children = (
-				CBAED2221948A1DD00769D68 /* StoreFinder */,
+				CBAED2221948A1DD00769D68 /* ConciergeGuide */,
 				CBAED2471948A1DD00769D68 /* StoreFinderTests */,
 				CBAED21B1948A1DD00769D68 /* Frameworks */,
 				CBAED21A1948A1DD00769D68 /* Products */,
@@ -1674,7 +1674,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CBAED2221948A1DD00769D68 /* StoreFinder */ = {
+		CBAED2221948A1DD00769D68 /* ConciergeGuide */ = {
 			isa = PBXGroup;
 			children = (
 				CBAED2591948A40F00769D68 /* DataParser */,
@@ -1691,6 +1691,7 @@
 				CBAED25A1948A40F00769D68 /* Libraries */,
 				CBAED2231948A1DD00769D68 /* Supporting Files */,
 			);
+			name = ConciergeGuide;
 			path = StoreFinder;
 			sourceTree = "<group>";
 		};
@@ -3148,16 +3149,16 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/StoreFinder/Libraries/FacebookSDK",
+					"$(PROJECT_DIR)/ConciergeGuide/Libraries/FacebookSDK",
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "StoreFinder/ConciergeGuide-Prefix.pch";
-				INFOPLIST_FILE = "StoreFinder/ConciergeGuide-Info.plist";
+				GCC_PREFIX_HEADER = "ConciergeGuide/ConciergeGuide-Prefix.pch";
+				INFOPLIST_FILE = "ConciergeGuide/ConciergeGuide-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/StoreFinder/Libraries/GoogleMobileAdsSdk",
+					"$(PROJECT_DIR)/CopnciergeGuide/Conciergeguide/GoogleMobileAdsSdk",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = ConciergeGuide;
@@ -3176,16 +3177,16 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/StoreFinder/Libraries/FacebookSDK",
+					"$(PROJECT_DIR)/ConciergeGuide/Libraries/FacebookSDK",
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "StoreFinder/ConciergeGuide-Prefix.pch";
-				INFOPLIST_FILE = "StoreFinder/ConciergeGuide-Info.plist";
+				GCC_PREFIX_HEADER = "ConciergeGuide/ConciergeGuide-Prefix.pch";
+				INFOPLIST_FILE = "ConciergeGuide/ConciergeGuide-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/StoreFinder/Libraries/GoogleMobileAdsSdk",
+					"$(PROJECT_DIR)/CopnciergeGuide/Conciergeguide/GoogleMobileAdsSdk",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = ConciergeGuide;
